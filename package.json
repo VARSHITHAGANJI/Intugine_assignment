@@ -1,0 +1,25 @@
+{
+  "name": "intugine_assignment",
+  "version": "1.0.0",
+  "description": "\"Creating API's for assignment\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VARSHITHAGANJI/Intugine_assignment.git"
+  },
+  "author": "Varshitha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VARSHITHAGANJI/Intugine_assignment/issues"
+  },
+  "homepage": "https://github.com/VARSHITHAGANJI/Intugine_assignment#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "mongoose": "^6.5.2",
+    "mongoose-type-email": "^1.1.2"
+  }
+}
